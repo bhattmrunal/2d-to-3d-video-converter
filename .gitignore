@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Outputs and samples
+output_*.png
+output_*.mp4
+sample_*.png
+sample_*.mp4
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
